@@ -1,0 +1,2 @@
+# Use the existing Docker image from the public repository
+FROM gcr.io/google-samples/hello-app:1.0
