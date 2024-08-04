@@ -1,0 +1,15 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Kubernetes
+*.kube
+
+# Logs
+logs
+*.log
+
+# Docker
+*.dockerignore
+*.acme-web-app-1-85a9d9d77aca.json
